@@ -1,0 +1,47 @@
+*{
+    padding: 0px;
+}
+.container {
+    background-color: white;
+    width: 90%;
+    margin: auto;
+    position: relative;
+}
+
+.google-img {
+    text-align: center;
+    display: block;
+    padding-top: 20px;
+}
+
+.search-box{
+    background-color: #EEEEEE;
+    text-align:center;
+}
+
+.box {
+    float: left;
+    text-align: center;
+    height: 115px;
+}
+
+.box ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+.special-search {
+    background-color: #7EE5DA;
+    width: 39%;
+}
+
+.about-google {
+    background-color: #70CCC2;
+    margin: 0px 1%;
+    width: 20%;
+}
+
+.get-google {
+    background-color: #62B3AA;
+    width: 39%;
+}
